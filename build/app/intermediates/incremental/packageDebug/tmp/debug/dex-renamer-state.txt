@@ -1,4 +1,4 @@
-#Wed Jun 24 23:34:54 EAT 2020
+#Thu Jun 25 15:54:49 EAT 2020
 base.0=/home/mourine/projects/flutter-projects/quizzer-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
